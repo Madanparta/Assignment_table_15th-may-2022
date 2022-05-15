@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+table{
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    background-color: #2a5b2b;
+    color: #ffffff;
+}
+tfoot{
+    background-color: #2a5b2b;
+    color: #ffffff;
+}
